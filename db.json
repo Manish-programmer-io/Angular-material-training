@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "department": "it",
+      "name": "Manish Soni",
+      "mobile": "7894561230",
+      "email": "manih@gmail.com",
+      "doj": "2024-11-27T18:30:00.000Z",
+      "gender": "male",
+      "salary": "55000",
+      "usercode": "UI007",
+      "status": true,
+      "id": "4e14"
+    },
+    {
+      "id": "4f72",
+      "department": "hr",
+      "name": "Ravi",
+      "mobile": "4567891230",
+      "email": "ravi@gmail.com",
+      "doj": "2024-11-07T18:30:00.000Z",
+      "gender": "male",
+      "salary": "45000",
+      "usercode": "hr002",
+      "status": ""
+    },
+    {
+      "id": "62ff",
+      "department": "sales",
+      "name": "Arpit",
+      "mobile": "8974563210",
+      "email": "Arpit@gmail.com",
+      "doj": "2024-11-15T18:30:00.000Z",
+      "gender": "male",
+      "salary": "42000",
+      "usercode": "Sl003",
+      "status": true
+    },
+    {
+      "id": "c12e",
+      "department": "accounts",
+      "name": "Raj",
+      "mobile": "4879556555",
+      "email": "raj@gmail.com",
+      "doj": "2024-11-08T18:30:00.000Z",
+      "gender": "male",
+      "salary": "12000",
+      "usercode": "Rj004",
+      "status": true
+    },
+    {
+      "department": "accounts",
+      "name": "Atharv",
+      "mobile": "8579655669",
+      "email": "atharv@gmail.com",
+      "doj": "2024-11-11T18:30:00.000Z",
+      "gender": "male",
+      "salary": "12000",
+      "usercode": "At009",
+      "status": true,
+      "id": "14f9"
+    }
+  ]
+}
